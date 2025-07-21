@@ -5,7 +5,7 @@ Each notebook covers a different SQL concept, gradually increasing in complexity
 
 ## 📁 Structure
 
-- `notebooks/`: Contains notebooks for each lesson (SELECT, WHERE, GROUP BY, CASE, CTE, etc.)
+- `SQL BASICS.ipynb`: Notebook containing these topics (SELECT, WHERE, GROUP BY, CASE, CTE, etc.)
 - `students.db`: SQLite sample database used throughout the exercises
 - `requirements.txt`: Basic packages required to run the notebooks
 
