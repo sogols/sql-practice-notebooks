@@ -34,3 +34,15 @@ Each notebook covers a different SQL concept, gradually increasing in complexity
 ---
 
 ✅ Perfect for beginners looking to get hands-on with SQL in a lightweight local environment.
+
+---
+## Author
+
+👤 **Sogol Sondossi**  
+🎓 M.Sc. in Data Science   
+📫 You can reach me at **sogol.sondossi96@gmail.com** or through GitHub
+
+---
+
+
+
